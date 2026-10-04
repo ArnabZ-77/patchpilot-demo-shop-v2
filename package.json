@@ -1,0 +1,14 @@
+{
+  "name": "demo-shop",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Demo shop with planted bugs: the target app PatchPilot fixes in the live demo.",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
